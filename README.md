@@ -5,7 +5,7 @@
 
 ### Connect with me:
 [<img align="left" alt="Website" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" style="padding-right:10px;" />](https://devsk-25.web.app#gh-light-mode-only)
-[<img align="left" alt="Website" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" style="padding-right:10px;" />](https://devsk-25.web.app#gh-dark-mode-only)
+[<img align="left" alt="Website" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" style="padding-right:10px;" />](https://devsk-025.web.app#gh-dark-mode-only)
 [<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/sathishsk25#gh-light-mode-only)
 [<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/sathishsk25#gh-dark-mode-only)
 [<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://linkedin.com/in/sathishsk25#gh-light-mode-only)
