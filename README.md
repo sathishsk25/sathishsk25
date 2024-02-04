@@ -1,6 +1,6 @@
 # Hloo, this is SK👋 
 
-## I’m a self-taught front-end web developer. I used to spend my day, practically every day, learning and experimenting with Web technologies and DSA
+## I’m a self-taught Developer. I used to spend my day, practically every day, learning and experimenting with technologies.
 
 
 ### Connect with me:
