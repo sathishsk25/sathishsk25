@@ -28,7 +28,7 @@
 <br />
 
 ---
-<-- :zap: GitHub Stats
+<!-- :zap: GitHub Stats
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathishsk25&theme=github-dark" alt="sathishsk25" /></p>
 <details>
